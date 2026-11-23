@@ -1,0 +1,24 @@
+{
+  "name": "MechMaster M3 — Mechanical Job & Viva Pro",
+  "short_name": "MechMaster M3",
+  "description": "12 Mechanical Subjects, 900+ Bilingual Viva, Written & MCQ Questions with Mock Test.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101218",
+  "theme_color": "#101218",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
